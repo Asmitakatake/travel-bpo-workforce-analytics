@@ -119,6 +119,6 @@ Indian cities.
 
 ---
 
-**Connect Me**
+**Connect with Me**
 - LinkedIn:https://linkedin.com/in/asmita-katake-441354231
 - GitHub:https://github.com/Asmitakatake
