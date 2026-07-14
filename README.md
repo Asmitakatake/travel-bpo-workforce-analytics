@@ -2,6 +2,7 @@
 ## End-to-End Data Analytics Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-blueviolet)
 ![MySQL](https://img.shields.io/badge/MySQL-Workbench-orange)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
 
@@ -10,9 +11,7 @@
 ## Project Overview
 End-to-end data analytics project analysing **10,000 
 Travel BPO employee records** across 8 Indian cities 
-serving US and UK processes. Covers complete data analyst 
-workflow from data generation to SQL analysis to Python 
-EDA to interactive Power BI dashboard.
+serving US and UK processes.This project demonstrates the complete data analytics workflow, from synthetic data generation using Python (Faker) to SQL analysis, Python-based exploratory data analysis (EDA), and an interactive Power BI dashboard for business insights.
 
 ---
 
@@ -77,7 +76,7 @@ Indian cities.
 4. Most common shift: **Night Shift UK (2,571)**
 5. Top process type: **Inbound Voice (2,034)**
 6. Largest age group: **40+ Senior (2,770)**
-7. Near-equal **US 50% vs UK 50%** process split
+7. Nearly equal distribution between US and UK processes (approximately 50% each).
 
 ---
 
@@ -89,18 +88,37 @@ Indian cities.
 ## Tools & Technologies
 | Tool | Purpose |
 |------|---------|
-| Python (Faker) | Data Generation |
+| Python (Faker) | Synthetic Data Generation |
 | Pandas, NumPy | Data Manipulation |
-| Matplotlib, Seaborn | Visualisation |
+| Matplotlib, Seaborn | Data Visualisation |
 | MySQL Workbench | SQL Analysis |
-| Power BI Desktop | Dashboard |
+| Power BI Desktop | Interactive Dashboard |
 | Jupyter Notebook | Development Environment |
 | GitHub | Version Control |
+
+---
+
+## Skills Demonstrated
+
+- SQL Query Writing
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Workforce Analytics
+- Business Insight Generation
+- Synthetic Data Generation
+- Statistical Analysis
 
 ---
 
 ## Author
 **Asmita Katake**
 | Computer Engineering Graduate | Aspiring Data Analyst
+
+---
+
+**Connect Me**
 - LinkedIn:https://linkedin.com/in/asmita-katake-441354231
 - GitHub:https://github.com/Asmitakatake
