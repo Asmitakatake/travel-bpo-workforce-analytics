@@ -102,5 +102,5 @@ Indian cities.
 ## Author
 **Asmita Katake**
 Computer Engineering Graduate | Aspiring Data Analyst
-- LinkedIn: linkedin.com/in/asmita-katake-441354231
-- GitHub: github.com/Asmitakatake
+- LinkedIn:https://linkedin.com/in/asmita-katake-441354231
+- GitHub:https://github.com/Asmitakatake
