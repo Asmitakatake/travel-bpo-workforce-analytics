@@ -11,7 +11,7 @@
 ## Project Overview
 End-to-end data analytics project analysing **10,000 
 Travel BPO employee records** across 8 Indian cities 
-serving US and UK processes.This project demonstrates the complete data analytics workflow, from synthetic data generation using Python (Faker) to SQL analysis, Python-based exploratory data analysis (EDA), and an interactive Power BI dashboard for business insights.
+serving US and UK processes. This project demonstrates the complete data analytics workflow, from synthetic data generation using Python (Faker) to SQL analysis, Python-based exploratory data analysis (EDA), and an interactive Power BI dashboard for business insights.
 
 ---
 
