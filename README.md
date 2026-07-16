@@ -100,11 +100,12 @@ Indian cities.
 
 ## Skills Demonstrated
 
-- SQL Query Writing
+- SQL Queries
 - Exploratory Data Analysis (EDA)
 - Data Cleaning
 - Data Visualization
 - Dashboard Design
+- Power Bi
 - Business Intelligence
 - Workforce Analytics
 - Business Insight Generation
