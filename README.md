@@ -105,7 +105,7 @@ Indian cities.
 - Data Cleaning
 - Data Visualization
 - Dashboard Design
-- Power Bi
+- Power BI
 - Business Intelligence
 - Workforce Analytics
 - Business Insight Generation
